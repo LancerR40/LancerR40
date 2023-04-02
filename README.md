@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My current GitHub account is: [github/itsronalds](github.com/itsronalds)
+## My current GitHub account is: [github/itsronalds](https://github.com/itsronalds)
 
 <!--
 **LancerR40/LancerR40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
